@@ -1,3 +1,12 @@
+# Debris-fluid-structure interaction simulation using ClaymoreUW 
+## How to customize claymoreUW   
+The main purpose of this documentation is to understand: 
+- how you can customize input data, e.g., experimental setups and sensor settings;
+- how to run ClaymoreUW through supercomputer, specifically in Lonestar 6 of TACC at UT Austin;
+- how to analyze the output files 
+
+This is a modified fork of JustinBonus/claymore. The details not mentioned in this document are mostly illustrated in the original repository. 
+
 # ClaymoreUW
 ## Claymore for Engineering Projects - Multi-GPU Material Point Method 
 
